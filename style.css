@@ -1,0 +1,33 @@
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+.heading button{
+    float:right;
+    border:1px white;
+}
+#start,#status,#restart
+{
+    font-size: 25;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    font-size: 25px;
+}
+h4
+{
+    background-color: grey;
+    color:white;
+    line-height:2;
+}
+#canvas
+{
+    border:3px green;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px white;
+}
